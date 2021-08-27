@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" filepath="$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoBoxingAndUnBoxing/AutoBoxingAndUnBoxing.iml" filepath="$PROJECT_DIR$/AutoBoxingAndUnBoxing/AutoBoxingAndUnBoxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingAndUnboxingChallenge/AutoboxingAndUnboxingChallenge.iml" filepath="$PROJECT_DIR$/AutoboxingAndUnboxingChallenge/AutoboxingAndUnboxingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListAndArrayList/ListAndArrayList.iml" filepath="$PROJECT_DIR$/ListAndArrayList/ListAndArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" filepath="$PROJECT_DIR$/MinElementChallenge/MinElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPTest/OOPTest.iml" filepath="$PROJECT_DIR$/OOPTest/OOPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorChallange/OperatorChallange.iml" filepath="$PROJECT_DIR$/OperatorChallange/OperatorChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" filepath="$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypesChallange/PrimitiveTypesChallange.iml" filepath="$PROJECT_DIR$/PrimitiveTypesChallange/PrimitiveTypesChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReferencesVsValueTypes/ReferencesVsValueTypes.iml" filepath="$PROJECT_DIR$/ReferencesVsValueTypes/ReferencesVsValueTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" filepath="$PROJECT_DIR$/ReverseArrayChallenge/ReverseArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SongsPlaylistChallange/SongsPlaylistChallange.iml" filepath="$PROJECT_DIR$/SongsPlaylistChallange/SongsPlaylistChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java new.iml" filepath="$PROJECT_DIR$/.idea/java new.iml" />
+    </modules>
+  </component>
+</project>
